@@ -1,7 +1,7 @@
 <?php
 
-
-echo "Hola mundo"
+$nombre="Juan";
+echo "Hola mundo".$nombre;
 
 
 ?>
