@@ -1,6 +1,6 @@
 <?php
 
-$nombre="Juan";
+$nombre="Pepinillo";
 echo "Hola mundo".$nombre;
 
 
